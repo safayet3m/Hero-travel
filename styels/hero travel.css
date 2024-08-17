@@ -575,6 +575,13 @@ footer{
     height: 20px;
     margin-bottom: 50px;
 }
+hr{
+    margin-left:250px;
+    margin-right: 250px;
+}
+.footer-Reserved{
+    text-align: center;
+}
 
 /*  Media Screen */
 
